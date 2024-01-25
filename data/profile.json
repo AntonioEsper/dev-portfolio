@@ -47,13 +47,23 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Javascript Password Generator",
+      "url": "https://github.com/AntonioEsper/password-gen-dev",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Clone Feed da BuzzFedd",
+      "url": "https://github.com/AntonioEsper/dio-buzz-feed-clone",
+      "github": true
+    },
+    {
+      "name": "Jogo Detona Ralph - HTML CSS JS",
+      "url": "https://github.com/AntonioEsper/detona-ralph-1.0",
+      "github": true
+    },
+    {
+      "name": "Simple Angular Blog based in Dribble Layout",
+      "url": "https://github.com/AntonioEsper/angular-blog",
       "github": true
     }
   ],
